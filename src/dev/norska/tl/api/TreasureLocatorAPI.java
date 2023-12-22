@@ -12,7 +12,6 @@ public class TreasureLocatorAPI {
 	* @param ItemStack
 	* @return Boolean
 	*/
-	
 	public static Boolean isTreasureLocatorItem(ItemStack itemstack) {
 		return null;
 	}
@@ -23,7 +22,6 @@ public class TreasureLocatorAPI {
 	* @param TreasureLocator Instance, ItemStack
 	* @return TreasureLocatorItem
 	*/
-	
 	public static TreasureLocatorItem getTreasureLocatorItem(TreasureLocator instance, String identifier) {
 		return null;
 	}
@@ -33,7 +31,6 @@ public class TreasureLocatorAPI {
 	* @param ItemStack
 	* @return String
 	*/
-	
 	public static String getTreasureLocatorIdentifier(ItemStack itemstack) {
 		return null;
 	}
